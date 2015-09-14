@@ -1,0 +1,11 @@
+{
+  "name": "d3-jetpack",
+  "version": "1.0.0",
+  "author": "gka",
+  "description": "d3-jetpack is a set of nifty convenience wrappers that speed up your daily work with d3.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:gka/d3-jetpack.git"
+  },
+  "private": false
+}
