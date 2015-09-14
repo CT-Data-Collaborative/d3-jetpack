@@ -157,4 +157,8 @@
         define(['d3'], jetpack);
     }
 
+    if (module) {
+        module.exports = jetpack;
+    }
+
 })();
